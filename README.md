@@ -86,6 +86,10 @@ Workflow executes:
 
 Raw data → Scrapped Data sheet.
 
+Filtered data → Insights sheet.
+
 ✅ This setup gives you a hands-free product research tool: every time you run it, you get a fresh shortlist of promising Amazon Best Seller products right in Google Sheets.
 
-Filtered data → Insights sheet.
+## Output View
+
+Attached csv of both sheets to have a review.
